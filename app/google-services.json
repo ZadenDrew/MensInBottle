@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "607882881277",
+    "firebase_url": "https://aplicationfirebase-314e6.firebaseio.com",
+    "project_id": "aplicationfirebase-314e6",
+    "storage_bucket": "aplicationfirebase-314e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607882881277:android:b4bcaf548c8edbce",
+        "android_client_info": {
+          "package_name": "com.example.acabezaslopez.aplicationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607882881277-amtf2s452uv991d1rndai0o273gvpt6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acabezaslopez.aplicationfirebase",
+            "certificate_hash": "f126d7113aba12f4fe6c8afb32a2570610122eb5"
+          }
+        },
+        {
+          "client_id": "607882881277-sqlmj9o5iodgu0hgdsto8qcee0sh43mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnFL5DiRXa_-0-jgZnXXyAGH1YOiM0Efg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607882881277-sqlmj9o5iodgu0hgdsto8qcee0sh43mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
