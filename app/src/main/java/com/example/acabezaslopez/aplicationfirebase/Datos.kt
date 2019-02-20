@@ -15,8 +15,8 @@ data class Datos(var token: String, var nombre: String, var hora: Date ) {
      * Mete los datos del objeto en el HashMap
      */
     fun crearHashMapDatos() {
-        miHashMapDatos.put("token", token)
-        miHashMapDatos.put("nombre", nombre)
-        miHashMapDatos.put("hora", hora)
+        miHashMapDatos["token"] = token
+        miHashMapDatos["nombre"] = nombre
+        miHashMapDatos["hora"] = hora
     }
 }
