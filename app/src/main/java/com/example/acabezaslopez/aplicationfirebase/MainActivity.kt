@@ -65,7 +65,7 @@ class MainActivity : AppCompatActivity() {
                 // creamos el hash map
                 misDatos.crearHashMapDatos()
                 // guardamos los datos en el hash map para la key creada anteriormente
-                miHashMapChild[key] = misDatos.miHashMapDatos
+                miHashMapChild["andrea"] = misDatos.miHashMapDatos
                 // actualizamos el child
                 database!!.updateChildren(miHashMapChild)
             } catch (e: Exception) {
